@@ -46,7 +46,7 @@ export default function SignUpViewPage({ stars }: { stars: number }) {
           <ClerkSignUpForm
             initialValues={{
 
-              emailAddress: 'your_mail+clerk_test@example.com'
+              emailAddress: 'your_mail@example.com'
             }}
           />
           <p className='text-muted-foreground px-8 text-center text-sm'>
