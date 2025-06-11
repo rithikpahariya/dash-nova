@@ -47,7 +47,7 @@ export default function SignInViewPage({ stars }: { stars: number }) {
               and helped me deliver projects to my clients faster than ever
               before.&rdquo;
             </p>
-            <footer className='text-sm'>Random Dude</footer>
+            <footer className='text-sm'>Rithik Pahariya</footer>
           </blockquote>
         </div>
       </div>
