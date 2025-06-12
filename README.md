@@ -32,7 +32,7 @@ This is a starter template using the following stack:
 - Pre-commit Hooks - [Husky](https://typicode.github.io/husky/)
 - Formatting - [Prettier](https://prettier.io)
 
-_If you are looking for a React admin dashboard starter, here is the [repo](https://github.com/Kiranism/react-shadcn-dashboard-starter)._
+_If you are looking for a React admin dashboard starter, here is the [repo](https://github.com/rithikpahariya/dash-nova)._
 
 ## Pages
 
@@ -94,7 +94,7 @@ src/
 Clone the repo:
 
 ```
-git clone https://github.com/Kiranism/next-shadcn-dashboard-starter.git
+git clone https://github.com/rithikpahariya/dash-nova.git
 ```
 
 - `pnpm install` ( we have legacy-peer-deps=true added in the .npmrc)
