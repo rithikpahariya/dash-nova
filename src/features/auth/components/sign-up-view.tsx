@@ -26,7 +26,7 @@ export default function SignUpViewPage({ stars }: { stars: number }) {
       </Link>
       <div className='bg-muted relative hidden h-full flex-col p-10 text-white lg:flex dark:border-r'>
         <div className='absolute inset-0 bg-zinc-900' />
-        <div className='relative z-20 flex flex-row items-center text-lg font-medium mb-4'>
+        <div className='relative gap-2 z-20 flex flex-row items-center text-lg font-medium mb-4'>
           <DashboardIllustration className="w-22 h-22" />
           <span className="font-semibold">DashNova</span>
         </div>
